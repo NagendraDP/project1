@@ -1,0 +1,2 @@
+This is git practice project
+New DevOps training
